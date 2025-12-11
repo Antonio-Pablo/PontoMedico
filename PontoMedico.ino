@@ -8,7 +8,7 @@
 
 // --- Configurações da Rede Wi-Fi ---
 const char* ssid = "TIC";
-const char* password = "mcgapi1703845";
+const char* password = "Mcgapi1703845";
 
 // --- URL do Google Apps Script ---
 const String googleAppsScriptUrl = "https://script.google.com/macros/s/AKfycbz1E-WgNW15UMtByTWxIMjemzluPCulJ2iKhYjQgZ4gUMEuLI2QY4MexWqzCtH4BrCl/exec";
@@ -37,6 +37,7 @@ Medico medicos[] = {
     {"04FA8708196C80", "Dra. Raysa Nery"},
     {"04DE3402196C80", "Dr. Ivo Lucas"},
     {"04734506396C80", "Dr. Digeorgio Martins"},
+    {"0A712C1F", "Dr. Nattan"}
     // Adicione mais médicos conforme necessário
 };
 
